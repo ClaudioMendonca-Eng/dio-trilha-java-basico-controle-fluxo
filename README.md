@@ -1,5 +1,14 @@
 # DIO - Trilha Java Básico - Controle Fluxo
-Trilha de Back-end Java do Santander Bootcamp 2024! Durante este desafio de projeto, explorei vários cenários com fluxos condicionais, repetições e exceções. Ao final, pude exercitar todo o conteúdo ministrado nas aulas implementando um pequeno sistema contador.
+
+
+| [![DIO.me](https://github.com/ClaudioMendonca-Eng/dio-trilha-java-basico/blob/main/img/dio.png)](https://dio.me) |
+|:--:|
+| Trilha de Back-end Java do Santander Bootcamp 2024! Durante este desafio de projeto, explorei vários cenários com fluxos condicionais, repetições e exceções. Ao final, pude exercitar todo o conteúdo ministrado nas aulas implementando um pequeno sistema contador. |
+| <a href="https://www.youtube.com/watch?v=wtiaPK_200U" target="_blank"><img style="margin: 10px" height="200" width="200" src="https://github.com/ClaudioMendonca-Eng/dio-trilha-java-basico/blob/main/img/logoba.png" alt="Logo do BootCamp"/></a> |
+| ##Apresentação do Desafio: |
+| ![Apresentação do Desafio](/img/desafio-apresentacao.gif) |
+| Exercío Prático do Curso |
+| ![Apresentação do Exercío Prático do Curso ](/img/exercicio-apresentacao.gif) |
 
 
 
