@@ -16,6 +16,10 @@ public class Contador {
 		System.out.print("                    Digite o segundo parâmetro: ");
 		int parametroDois = terminal.nextInt();
         System.out.println("===================================================================== \n");
+        
+        System.out.println("============== - Segundo parâmetro menos o primeiro - =============== \n");
+        System.out.println("                         O Valor ficou igual: " + (parametroDois - parametroUm) + "\n");
+        System.out.println("===================================================================== \n");
 		
 		try {
 			//chamando o método contendo a lógica de contagem
