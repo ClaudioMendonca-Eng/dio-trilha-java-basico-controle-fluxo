@@ -89,9 +89,9 @@ Esse desafio foi uma ótima oportunidade para aplicar os conceitos de controle d
 
 ## <a name="certificados"></a>Certificados
 
-- Texto
+- Criando Um Pequeno Sistema Para Validação de Processo Seletivo
 
-[![Certificado](img/01_certificado.png)](https://www.dio.me/certificate/codigo)
+[![Certificado](img/01_certificado.png)](https://www.dio.me/certificate/ASAB8R4X)
 
 
 
